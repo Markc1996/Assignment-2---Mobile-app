@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Second Assignment - Mark Carley - 20071864</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_addPlacemark">Add Placemark</string>
+
+    <string name="hint_placemarkTitle">Placemark Title</string>
+
+    <string name="facebook_application_id" translatable="false">1172993579570054</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1172993579570054</string>
+</resources>
